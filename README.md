@@ -149,14 +149,6 @@ pre-commit install
 
 -   **Discord**: [邀请链接](https://discord.gg/m4TNaxreCN)
 
-## 常见问题
-
-常见问题的答案可以在我们的 Discord 服务器中找到，具体频道中有详细的解答。
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
-
 ## 免责声明
 
 本项目仅供信息参考，不能作为法律、税务、投资、金融或其他建议。如果您打算使用真实资金，务必自行承担风险。
